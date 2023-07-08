@@ -1,6 +1,6 @@
 # 2023 강서구 빅데이터 활용 공모전
 
-   - 개방된 데이터를 활용하여 주민의 생활불편 해결 아이디어 및 공공 이익·발전에 기여할 수 있는 자유 주제
+- 개방된 데이터를 활용하여 주민의 생활불편 해결 아이디어 및 공공 이익·발전에 기여할 수 있는 자유 주제
 
 # 목차
 
@@ -24,27 +24,11 @@
 2. 구내 노인 놀이터 최적 입지 선정을 통한 노인 여가·복지시설 확충의 필요성
 
 ## 프로젝트 팀원
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/kimyoo04"><img src="https://avatars.githubusercontent.com/u/58503130?v=4" width="100px;"></td>
-    <td align="center"><a href="https://github.com/chae-zero"><img src="https://avatars.githubusercontent.com/u/115343657?v=4" width="100px;"></td>
-    <td align="center"><a href="https://github.com/jh0811a"><img src="https://avatars.githubusercontent.com/u/118657206?v=4" width="100px;"></td>
-    <td align="center"><a href="https://github.com/dhshin1125"><img src="https://avatars.githubusercontent.com/u/123342699?v=4" width="100px;"></td>
-  </tr>
-  <tr>
-    <td align="center"><b><a href="https://github.com/kimyoo04">김유</a></b></td>
-    <td align="center"><b><a href="https://github.com/chae-zero">정채영</a></b></td>
-    <td align="center"><b><a href="https://github.com/jh0811a">박재훈</a></b></td>
-    <td align="center"><b><a href="https://github.com/dhshin1125">신동화</a></b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>PM, QGIS 분석</b></td>
-    <td align="center"><b>데이터 분석, 기획보고서 작성</b></td>
-    <td align="center"><b>단변량분석</b></td>
-    <td align="center"><b>MCLP</b></td>
-  </tr>
-</table>
 
+- [김  유](https://github.com/kimyoo04): PM, QGIS 분석
+- [정채영](https://github.com/chae-zero): 데이터 분석, 기획보고서 작성
+- [박재훈](https://github.com/jh0811a): 단변량분석
+- [신동화](https://github.com/dhshin1125): MCLP
 
 ## 프로젝트 요약
 
