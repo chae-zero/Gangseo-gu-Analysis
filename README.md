@@ -25,10 +25,10 @@
 
 ## 프로젝트 팀원
 
-- [김  유](https://github.com/kimyoo04): PM, QGIS 분석
+- [김  유](https://github.com/kimyoo04): PM, QGIS 분석, PCA, K-means
 - [정채영](https://github.com/chae-zero): 데이터 분석, 기획보고서 작성
-- [박재훈](https://github.com/jh0811a): 단변량분석
-- [신동화](https://github.com/dhshin1125): MCLP
+- [박재훈](https://github.com/jh0811a): 데이터 시각화, 단변량 분석
+- [신동화](https://github.com/dhshin1125): MCLP 분석, 시각화
 
 ## 프로젝트 요약
 
